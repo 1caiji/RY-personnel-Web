@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             :"RenY"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              :"又懒又宅但心态巨好的白日梦想家"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : 南京大学"
   uri              : # URL
   email            : "none@example.org" 
 
